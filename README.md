@@ -25,8 +25,3 @@ This project develops machine learning models to predict selling prices of coppe
 📌 Pricing Factors: Selling price is influenced by material type, thickness, and quantity.
 📌 Lead Conversion: Successful deals depend on customer segment, order quantity, and region.
 📌 Model Accuracy: Regression and classification models effectively reduce prediction errors.
-
-🚀 Future Improvements
-✔ Implement deep learning models for better accuracy.
-✔ Enhance feature engineering with industry-specific insights.
-✔ Deploy as a web service using Flask/FastAPI for broader usability.
